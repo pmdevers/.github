@@ -1,0 +1,14 @@
+{
+    "name": "Nuget Package Workflow",
+    "description": "Nuget Package CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "Dotnet",
+        "Nuget"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
